@@ -1,3 +1,6 @@
 1. Nametag
 2. Bukang
-3. Slayer
+3. Bantal
+4. Slayer
+5. Kaos
+6. Topi
